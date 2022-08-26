@@ -22,7 +22,7 @@ SPREADSHEET_KEY = '1ODNxwa5JBDGn5z_j-fJtW68aFK75q1QjPEvcNQ4uAPs'
 worksheet = gc.open_by_key(SPREADSHEET_KEY).sheet1
 
 #A1セルの値を受け取る
-import_value = int(worksheet.acell('A1').value)
+import_value = int(worksheet.acell('A2').value)
 
 #A1セルの値に100加算した値をB1セルに表示させる
 export_value = import_value+100
