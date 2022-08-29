@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "slack-tool-360911",
+  "private_key_id": "9e4a0c51af8d784ca234a554ee6a9ab6921d03b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0KP1fU+WpRNBO\nr27xq1kJ6uNTNi7i7HV2fC/0L4KAsjEpn0KW5VmLKR3NUvP77cPd6TYPxb7BJv3k\nz/8Lthf7pwAz0CRyQ/vnUfnhsqiD88IK0/VI3ARNNs/rBXGT72DyWaBc45ZenPfH\n4heyHfRq8rk7EjZ99Ge7Sldk0hoafLd/bjXr2R0xU8B+lMhQfLSe+gWyQ7rn0gse\nEl2MxOjNDFb6B0t3jNLsMdCppH0v2+H1jI2mZWJSE3wwpk4V7zIdse57bI2urERh\nmL9YHNGt3Ew/E8beZsEvUPpYVbJEs2A5Y7QUA35p3wcvHdk2MNT+CQx/d3z97zst\nS3AyjcOtAgMBAAECggEAUxfwvM4CSA8AELqjbf18xLE8hf2gpHMxPiPLLlHXXCpT\nuIHHAbfok+Gz6CaRd6nTQ/+zOpUXBRlJ0wYH+UvURfJhioQ+uyEWBzvtB6cSSEHe\nRoY6RI+NwFs+jIRnPTcUPNMPvqgNi7fUJLHoAfQE7mri+hbNYUyfp2eDZXHuLjZ/\nfSjxmEziRAOVarRH3Wi2iqvS46BMMaOt8/STP3doRo+8JLF08Ie3YGXPsjBY4AiR\nmHQ/O9u5Kl0j011a109lY1fLdOpELsy8ODPrnyHRW8G/EUWX9iQdlGAIjM0czMyo\nZ0UazFPRmxCqD4G6tIL4jOaLGE23XzAVU8QU1yHONQKBgQDal164n3iYu0roDtMp\n+CtHb+qaQmfr7k2EDEi7Rzl/3Tc95XUv8413vLYPkyBcKOFQPIeYP3mK65dkT1wX\nFb33rkemkAF8xGmydJOtR3IcZ1m0EnDzye7XijRmVbe6k7hb5XgWr7gWsrWrApUk\ngFGqIZuE2u/WrE5RJEzLdziiiwKBgQDS/eyoUe/weo7zzoV05ixQjfR/6WqK0rrG\nz+jKX4okRuNC1INBamXaEiCdqTyuj+flziScX1VKtVs0oP1loqFn8VT3LR3Vi4pn\n8b6VHinATCqtOGTrukuwSXxxNiNrvwbyx7dTOQ/xb1cM837SC76EmAVbrhw2JybE\nLcpF4gGRpwKBgQDBR269mGQtyA2nutQEHCdIdzDdTTJObtujkqkMzyGMabHazPUd\nfSDtarMgelr2oj73j03l1NpHd6DZVUJ8NwFN64/3OwXVqGY9IM8jPDUt4ER08Iln\nRnolo1JJ2ikmlE9DEldo197SUxpHJ3VwXPXYlPbKNjwzeQ+Wt54fmj89mQKBgEEg\nOd1WtU4wNlHRLGaB6anPt2mIHefN1fMqF7vns5cw/lMRj5YwhlHCiKjBpUZoivbn\nI2vVDVmrEwTysGSfx1xzJHvLREs28DjXaLFUhyShHgcrwhL1BQncFPpI8LQAWd+0\nf8TDd0VZza/ktP+Wum7pEbZTzsd0XEXvsGDTuxI/AoGAJIP9QVmihell5jZt2vWW\neGiTxmZwU84bYmqnaFYTEx1RJTIyc3S42MLCuLPX872ZBDox70ghL5zNRuALMKuS\n5tO/MaAl5eed5v/suwk8a5aGL7X9yTrro9udp/fRxK4aBxBmaTGnRRY9CqIhVIoP\n0T0uxGBRL4MOIpH4CzwcQV4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "slack-tool@slack-tool-360911.iam.gserviceaccount.com",
+  "client_id": "108792953045802758114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/slack-tool%40slack-tool-360911.iam.gserviceaccount.com"
+}
