@@ -10,7 +10,7 @@ scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/aut
 
 #認証情報設定
 #ダウンロードしたjsonファイル名をクレデンシャル変数に設定（秘密鍵、Pythonファイルから読み込みしやすい位置に置く）
-credentials = ServiceAccountCredentials.from_json_keyfile_name('myprojectソースコードを保管/python-spreadshee-5ae0a280e24f.json', scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name('myprojectソースコードを保管/slack-tool-360911-9e4a0c51af8d.json', scope)
 
 #OAuth2の資格情報を使用してGoogle APIにログインします。
 gc = gspread.authorize(credentials)
@@ -21,7 +21,7 @@ SPREADSHEET_KEY = '1ODNxwa5JBDGn5z_j-fJtW68aFK75q1QjPEvcNQ4uAPs'
 #共有設定したスプレッドシートのシート1を開く
 worksheet = gc.open_by_key(SPREADSHEET_KEY).sheet1
 
-#A1セルの値を受け取る
+#A2セルの値を受け取る
 import_value = int(worksheet.acell('A2').value)
 
 #A1セルの値に100加算した値をB1セルに表示させる
